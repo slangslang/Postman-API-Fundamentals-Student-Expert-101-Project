@@ -10,12 +10,17 @@ Welcome to my Postman API Fundamentals project! This repository showcases my jou
 
 </details>
 
-## 🏆 Badge of Achievement
-[![Postman API Fundamentals Student Expert](https://api.badgr.io/public/assertions/FRdK814RRFmqAwq_l3FZQQ/image)](https://api.badgr.io/public/assertions/FRdK814RRFmqAwq_l3FZQQ?identity__email=rsalangdronjr%40gmail.com)  
-*Postman API Fundamentals Student Expert*
-
 ## 📝 Introduction
-In this project, I registered as a Postman Student and immersed myself in the world of APIs. Through hands-on tasks and quizzes, I strengthened my understanding of API fundamentals.
+In this project, I registered as a Postman Student and immersed myself in the world of APIs. Through hands-on tasks and quizzes, I strengthened my understanding of API fundamentals. 
+
+### A Hands-On Certification That Teaches:
+- What APIs are and their importance in modern software development
+- How to use Postman to work with APIs
+- Making GET, POST, PATCH, and DELETE requests
+- Query parameters, bodies, headers, and response codes
+- Basic scripting
+- API Key Authorization
+- How to use APIs in your applications
 
 ## 🚀 Getting Started
 <details>
@@ -80,9 +85,5 @@ I completed several quizzes throughout the project to test my knowledge:
 This project has equipped me with a solid foundation in APIs and Postman. I’m excited to continue building on these skills and explore more advanced concepts in the future!
 
 Feel free to check out my Postman collection and explore the tasks I’ve completed. If you have any questions or feedback, don’t hesitate to reach out!
-
----
-
-📫 **Contact:** [Your LinkedIn](https://www.linkedin.com/in/your-profile) | [Your Email](mailto:your-email@example.com)
 
 🎉 Thank you for visiting my project!
