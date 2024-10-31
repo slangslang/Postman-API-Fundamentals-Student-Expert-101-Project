@@ -3,12 +3,9 @@
 Welcome to my Postman API Fundamentals project! This repository showcases my journey through the Postman API fundamentals certification, where I developed essential skills for working with APIs.
 
 ## 📽️ Project Demo
-<details>
-<summary>Click to view demo GIF</summary>
 
 ![Project Demo](link-to-your-gif.gif)  <!-- Replace with the actual link to your GIF -->
-
-</details>
+*Preview of my halfway check and final check passing all requirements needed for the certification*
 
 ## 📝 Introduction
 In this project, I registered as a Postman Student and immersed myself in the world of APIs. Through hands-on tasks and quizzes, I strengthened my understanding of API fundamentals. 
