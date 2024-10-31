@@ -4,7 +4,7 @@ Welcome to my Postman API Fundamentals project! This repository showcases my jou
 
 ## 📽️ Project Demo
 
-![Project Demo](link-to-your-gif.gif)  <!-- Replace with the actual link to your GIF -->
+![Project Demo](https://github.com/slangslang/Postman-API-Fundamentals-Student-Expert-101-Project/blob/main/API%20Fundamentals%20Student%20Expert%20101.gif)  <!-- Replace with the actual link to your GIF -->
 *Preview of my halfway check and final check passing all requirements needed for the certification*
 
 ## 📝 Introduction
@@ -82,5 +82,7 @@ I completed several quizzes throughout the project to test my knowledge:
 This project has equipped me with a solid foundation in APIs and Postman. I’m excited to continue building on these skills and explore more advanced concepts in the future!
 
 Feel free to check out my Postman collection and explore the tasks I’ve completed. If you have any questions or feedback, don’t hesitate to reach out!
+
+[![Postman Collection](https://img.shields.io/badge/Postman-Collection-orange?style=for-the-badge&logo=postman)](https://www.postman.com/rodman-1o4fwe9oqcsfx/workspace/postman-api-fundamentals-student-expert-101)
 
 🎉 Thank you for visiting my project!
