@@ -86,3 +86,6 @@ Feel free to check out my Postman collection and explore the tasks I’ve comple
 [![Postman Collection](https://img.shields.io/badge/Postman-Collection-orange?style=for-the-badge&logo=postman)](https://www.postman.com/rodman-1o4fwe9oqcsfx/workspace/postman-api-fundamentals-student-expert-101)
 
 🎉 Thank you for visiting my project!
+
+## 🚀 Become a Certified Student Expert!
+If you’re interested in becoming a certified Postman Student Expert and want to learn more about Postman, just like I did, [register here](https://www.postman.com/student-program/student-expert/?utm_campaign=SP&utm_medium=referral&utm_source=student-expert&utm_term=social-badge&utm_content=badgr-description).
